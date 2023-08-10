@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **PHP, LARAVEL, MYSQL**
 
-- ⚡ Fun fact **I love too read history things**
+- ⚡ Fun fact **I love to read history things**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: leeo.av@live.com</h3>
 <p align="left">
 </p>
 
